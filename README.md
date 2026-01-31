@@ -8,7 +8,7 @@ Other than focusing on static reporting, this project emphasizes decision ready 
 
 ---
 
-## From Raw Data to Dashboard
+## From Raw Data to Dashboard!
 
 ### Raw Dataset
 The analysis begins with a raw transactional sales dataset containing order dates, products, quantities, prices, and geographic information.
