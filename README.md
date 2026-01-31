@@ -22,6 +22,7 @@ The analysis begins with a raw transactional sales dataset containing order date
 
 
 
+And this turns into..
 ⬇️
 
 ### Final Interactive Dashboard
