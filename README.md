@@ -1,10 +1,10 @@
 # 📊 Sales Performance Analysis & Interactive Dashboard In Excel
 
 ## Project Overview
-This project demonstrates an end-to-end **sales performance analysis** built entirely in Excel.  
-The goal was to simulate a real-world analyst workflow: starting from raw sales data, cleaning and transforming it, analyzing performance across multiple dimensions, and delivering insights through a clean, interactive dashboard.
+This project demonstrates a full sales performance analysis built entirely in Excel.  
+The goal was to simulate a real world analyst workflow: starting from raw sales data, cleaning and transforming it, analyzing performance across multiple dimensions, and delivering insights through a clean, interactive dashboard.
 
-Rather than focusing on static reporting, this project emphasizes **decision-ready analysis** that allows stakeholders to explore trends, compare segments, and quickly understand what’s driving performance.
+Other than focusing on static reporting, this project emphasizes decision ready analysis that allows stakeholders to explore trends, compare segments, and quickly understand what’s driving performance.
 
 ---
 
