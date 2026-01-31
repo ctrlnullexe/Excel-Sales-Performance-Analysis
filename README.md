@@ -97,7 +97,6 @@ Based on the analysis:
 ## Files in This Repository
 - `sales_dashboard.xlsx` — Interactive Excel dashboard with KPIs, charts, slicers, and timeline
 - `raw_data.xlsx` — Dataset used for analysis
-- `images/` — Screenshots of raw data and the final dashboard
 
 ---
 
