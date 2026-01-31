@@ -26,7 +26,7 @@ And this turns into..
 ⬇️
 
 ### Final Interactive Dashboard
-After cleaning, transforming, and analyzing the data, the final output is an interactive Excel dashboard with KPIs, charts, slicers, and a timeline for dynamic exploration.
+After cleaning, transforming, and analyzing the data, the final output is an interactive Excel dashboard with KPIs, charts, slicers, and a timeline for dynamic exploration. All of which, updates in sync as you click on filters for any information that you would need.
 
 <img width="1621" height="729" alt="dashboard_preview" src="https://github.com/user-attachments/assets/dd0a656d-4170-40b1-a3e4-f23336de4871" />
 
