@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analysis & Interactive Excel Dashboard
+# 📊 Sales Performance Analysis & Interactive Dashboard In Excel
 
 ## Project Overview
 This project demonstrates an end-to-end **sales performance analysis** built entirely in Excel.  
